@@ -49,5 +49,4 @@ This project was built to strengthen my understanding of:
 - Unity scripting in C#
 
 ## Demo
-
-Add screenshots, a gameplay GIF, or a short video link here.
+(https://drive.google.com/file/d/15n_jM24UJc296Pux7x1ZIAoFOUeS5mlX/view)
